@@ -45,7 +45,7 @@
 
 ![image](https://github.com/user-attachments/assets/1779c117-030b-4752-953d-0db35ae0c7c5)
 
-![Snake animation](https://github.com/Douglas-j-game/Douglas-j-game/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Douglas-j-game/Douglas-j-game** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
